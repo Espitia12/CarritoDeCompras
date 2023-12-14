@@ -38,6 +38,19 @@ header{
     height: 76px;
 
 }
+
+.buttonAdmin{
+    background: linear-gradient(182deg, rgb(0, 2, 255), rgb(255 255 255 / 0%), rgb(112, 0, 255));
+    height: 35px;
+    width: 155px;
+    font-size: 25px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 17px;
+    text-align: center;
+    text-decoration: none
+}
 .scroll{
     background-color: aliceblue;
     box-shadow: .1rem .2rem .3rem #333;
